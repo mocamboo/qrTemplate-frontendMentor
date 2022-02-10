@@ -1,1 +1,0 @@
-# qrTemplate-frontendMentor
